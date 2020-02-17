@@ -1,0 +1,6 @@
+framework module Pods_Bundle_News_iOS_Challange_Bundle_News_iOS_ChallangeUITests {
+  umbrella header "Pods-Bundle News iOS Challange-Bundle News iOS ChallangeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

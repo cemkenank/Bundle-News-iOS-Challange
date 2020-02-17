@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (5.0.0)
+  - KFSwiftImageLoader (4.0.0)
+  - PKHUD (5.3.0)
+  - RxBlocking (5.0.1):
+    - RxSwift (~> 5)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - RxTest (5.0.1):
+    - RxSwift (~> 5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - KFSwiftImageLoader
+  - PKHUD (~> 5.0)
+  - RxBlocking (~> 5)
+  - RxCocoa (~> 5)
+  - RxSwift (~> 5)
+  - RxTest (~> 5)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - KFSwiftImageLoader
+    - PKHUD
+    - RxBlocking
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxTest
+
+SPEC CHECKSUMS:
+  Alamofire: 58ff2bfb8daaacaa233d5c36e37b10a5248f59b1
+  KFSwiftImageLoader: f6edb1af1c9ed23906509d4db7e00edc1086228b
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  RxBlocking: c5e090f42d046df8b0e7752742510f349963710f
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  RxTest: 0132f952a61da82d5233abedaa559df91e5330e5
+
+PODFILE CHECKSUM: 8a066b03aa8f6be0755d053cb9d269dfad3a8fbe
+
+COCOAPODS: 1.8.4
